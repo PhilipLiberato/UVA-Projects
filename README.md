@@ -1,4 +1,4 @@
 UVA-Projects
 ============
 
-Contains programs written for class.
+Visit the project wiki for more details.
